@@ -8,7 +8,9 @@ Over an intermission during the frontend program at Turing, I took some time to 
 3. Run the server by entering ```node server/server.js``` in the command line
 4. Go to http://localhost:4000/graphql in your browser
 
-#### To make a request in the browser, use the following format, with any root written in the server.js within the curly braces
+# Making Requests
+
+### To make a request in the browser, use the following format, with any root written in the server.js within the curly braces
 
 ```
 {
